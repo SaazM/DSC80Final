@@ -1,6 +1,6 @@
 # What Makes a Spotify Track Popular?
 
-**Name(s):** Your Name Here  
+**Name(s):** Saaz Mahadakar  
 **Course:** DSC 80 Final Project
 
 ## Introduction
